@@ -1,7 +1,11 @@
 # React SSR Basics Example
 
-An example of a simple server-side rendered (SSR) React application. This project demonstrates the use
-of `renderToString`for SSR, basic routing, a Docker setup and a production-ready build process.
+An example of a server-side rendered (SSR) React application. This project demonstrates fundamental SSR features,
+including:
+
+- Implementation SSR
+- Routing
+- Production-Ready Setup
 
 ## Run Project
 
