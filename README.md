@@ -1,7 +1,8 @@
 # React SSR Basics Example
 
-An example of a server-side rendered (SSR) React application. This project demonstrates fundamental SSR features,
-including:
+An example of a server-side rendered (SSR) React application. 
+
+This project demonstrates fundamental SSR features:
 
 - Implementation SSR
 - Routing
