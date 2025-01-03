@@ -1,8 +1,10 @@
 # React SSR Basics Example
 
-An example of a server-side rendered (SSR) React application. 
+The example of a server-side rendered (SSR) React application. 
 
-This project demonstrates fundamental SSR features:
+This repository complements the article: [Building Production-Ready SSR React Applications](https://dev.to/maxh1t/building-production-ready-ssr-react-applications-4bne)
+
+## Features
 
 - Implementation SSR
 - Routing
